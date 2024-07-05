@@ -1,5 +1,6 @@
 # All the images of postmap requests are attached here
-![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/5016ad0e-254a-48f9-8fa5-9fccf848bff4)
+![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/e6d160fd-0328-47e4-bf6c-0296ac6f3a4b)
+
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/def9c5b2-f14a-480c-acf1-034e03fda5ac)
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/1e010afb-0ea0-46f0-9bd3-cfbb1a874e90)
 
