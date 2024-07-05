@@ -7,5 +7,10 @@
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/9fd67d20-85e0-4de6-9168-cb65c44ad8fb)
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/99525114-7de0-4bab-8679-8d3d8b06e09a)
 
+![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/b37bb3af-7fe4-4179-88c1-ea44627fb337)
+![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/36c2fd8e-b08c-4be8-8507-3fc5054c0cca)
+
+
+
 # postman collection that have been used to test the application
 https://www.postman.com/navigation-explorer-38548618/workspace/public-collections/collection/29338106-f06c38a0-4c91-49f2-a84d-c8a005ca97af?action=share&creator=29338106
