@@ -16,3 +16,6 @@
 
 # postman collection that have been used to test the application
 https://www.postman.com/navigation-explorer-38548618/workspace/public-collections/collection/29338106-f06c38a0-4c91-49f2-a84d-c8a005ca97af?action=share&creator=29338106
+
+# You can find the documentation of the Project here
+http://localhost:8080/swagger-ui/index.html
