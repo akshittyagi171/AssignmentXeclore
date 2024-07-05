@@ -7,7 +7,8 @@
 
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/552b7c50-982b-4af7-b71e-c1eaabd6aeca)
 
-![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/99525114-7de0-4bab-8679-8d3d8b06e09a)
+![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/6b86044b-4432-4dc2-98ce-aac78ae2344d)
+
 
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/b37bb3af-7fe4-4179-88c1-ea44627fb337)
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/36c2fd8e-b08c-4be8-8507-3fc5054c0cca)
