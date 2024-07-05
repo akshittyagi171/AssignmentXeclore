@@ -1,17 +1,18 @@
 # All the images of postmap requests are attached here
 ## AddDoctor
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/e6d160fd-0328-47e4-bf6c-0296ac6f3a4b)
-
+## RemoveDoctor
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/85a64b31-3609-44c7-af0f-6cda6471fd06)
-
+## AddPatient
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/1e010afb-0ea0-46f0-9bd3-cfbb1a874e90)
-
+## RemovePatient
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/552b7c50-982b-4af7-b71e-c1eaabd6aeca)
-
+## RecommendDoctor
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/6b86044b-4432-4dc2-98ce-aac78ae2344d)
 
-
+## RecommendDoctor - Edge Case 1
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/b37bb3af-7fe4-4179-88c1-ea44627fb337)
+## RecommendDoctor - Edge Case 2
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/36c2fd8e-b08c-4be8-8507-3fc5054c0cca)
 
 
