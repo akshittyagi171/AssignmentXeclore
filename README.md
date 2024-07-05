@@ -1,4 +1,5 @@
 # All the images of postmap requests are attached here
+## AddDoctor
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/e6d160fd-0328-47e4-bf6c-0296ac6f3a4b)
 
 ![image](https://github.com/akshittyagi171/AssignmentXeclore/assets/87603361/85a64b31-3609-44c7-af0f-6cda6471fd06)
